@@ -1,0 +1,16 @@
+.app-item-container {
+  height: 250px;
+  background-color: white;
+  width: 250px;
+}
+
+.app-item-image {
+  height: 80px;
+  width: 80px;
+  margin: 15px;
+}
+
+.app-name {
+  font-size: 15px;
+  font-family: 'Bree Serif';
+}
